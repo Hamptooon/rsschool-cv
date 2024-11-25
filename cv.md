@@ -6,7 +6,6 @@
 
 ## 📞 Contact Information
 
-- **Phone**: +7 (913) 644-02-04
 - **Email**: [karachevigor@mail.ru](mailto:karachevigor@mail.ru)
 - **GitHub**: [https://github.com/Hamptooon](https://github.com/Hamptooon)
 - **Telegram**: [@Hamptooon](https://t.me/Hamptooon)
